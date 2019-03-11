@@ -1,0 +1,50 @@
+$ history
+    1  git config --global user.name "ajortiz95"
+    2  git config --global user.email ajortiz@uc.cl
+    3  cd /C:\Users\Lucía Santander\Desktop
+    4  cd /c/Users/Lucía Santander/Desktop/Prueba
+    5  cd /c/Users/"Lucía Santander"/Desktop/Prueba
+    6   git clone https://github.com/gjalliende/prueba.git
+    7  git clone https://github.com/ajortiz95/prueba.git
+    8  cd /c/Users/"Lucía Santander"/Desktop/Prueba/prueba
+    9  git add .
+   10  git commit -m "  "
+   11  git commit -m "esto "
+   12  git push
+   13  git pull
+   14  git add .
+   15  git commit -m "holaaa"
+   16  git push
+   17  pwd
+   18  dir
+   19  cd Desktop/
+   20  git clone https://github.com/IIC2115/Syllabus.git
+   21  cd Syllabus/
+   22  ls
+   23  git add .
+   24  git commit -m " se sube el Lab0"
+   25  git pull
+   26  dir
+   27  cd C:C:\Users\"Lucía Santander"/Desktop
+   28  v ggchc
+   29  cd /c/Users/"Lucía Santander"/Desktop/Laboratorios
+   30  git clone https://github.com/ajortiz95/Lab0.git
+   31  git add .
+   32  cd /c/Users/"Lucía Santander"/Desktop/Laboratorios
+   33  cd /c/Users/"Lucía Santander"/Desktop/Laboratorios/Lab0
+   34  git add .
+   35  git commit -m "subí el archivo"
+   36  git push
+   37  cd/Users/"Lucía Santander"/Desktop
+   38  git clone https://github.com/ajortiz95/Lab0.git
+   39  dir
+   40  dir
+   41  cd /c/Users/"Lucía Santander"/Desktop
+   42  git clone https://github.com/ajortiz95/Lab0.git
+   43  git add .
+   44  cd /c/Users/"Lucía Santander"/Desktop/Lab0
+   45  git add .
+   46  git commit -m "resp5"
+   47  git push
+   48  git pull
+   49  history
